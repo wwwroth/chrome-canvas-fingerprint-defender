@@ -1,0 +1,1 @@
+# chrome-canvas-fingerprint-defender
